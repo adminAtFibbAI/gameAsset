@@ -172,14 +172,6 @@ Animations are loaded from files and managed through state machines:
 4. Cover system
 5. Team AI integration
 
-## 🤝 Contributing
-
-Feel free to contribute to this system by:
-1. Implementing missing features
-2. Optimizing existing systems
-3. Adding new weapon types
-4. Improving physics interactions
-5. Enhancing animation systems
 
 ## 📝 License
 
